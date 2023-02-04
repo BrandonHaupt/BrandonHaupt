@@ -1,7 +1,7 @@
 ### Hello friends! 👋
 
 **Brandon Haupt**
-[Email](mailto:haupt.brandon@gmail.com?subjet=hi% "Hello!")
+[Email](mailto:haupt.brandon@gmail.com?subjet=hi% "Hello!")</br>
 [UX/UI Portfolio](https://www.brandonhaupt.com/)
 
 - Frontend developer </br>
