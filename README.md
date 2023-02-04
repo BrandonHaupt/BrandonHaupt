@@ -1,6 +1,6 @@
 ### Hello friends! 👋
 
-**Brandon Haupt**
+**Brandon Haupt**</br>
 [Email](mailto:haupt.brandon@gmail.com?subjet=hi% "Hello!")</br>
 [UX/UI Portfolio](https://www.brandonhaupt.com/)
 
