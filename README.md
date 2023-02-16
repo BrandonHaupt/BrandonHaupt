@@ -4,9 +4,6 @@
 [Email](mailto:haupt.brandon@gmail.com?subjet=hi% "Hello!")</br>
 [UX/UI Portfolio](https://www.brandonhaupt.com/)
 
-- Frontend developer </br>
-- UI Designer
-
 # 💫 About Me:
 Frontend developer<br>UI Designer<br>
 
