@@ -2,6 +2,7 @@
 
 **Brandon Haupt**</br>
 [Email](mailto:haupt.brandon@gmail.com?subjet=hi% "Hello!")</br>
+[Frontend Dev Portfolio](https://www.brandonhauptdev.com/) </br>
 [UX/UI Portfolio](https://www.brandonhaupt.com/)
 
 # 💫 About Me:
