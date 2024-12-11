@@ -5,7 +5,7 @@
 [Frontend Dev Portfolio](https://www.brandonhauptdev.com/) </br>
 
 # 💫 About Me:
-Frontend developer<br>UI Designer<br>
+Frontend developer
 https://www.linkedin.com/in/brandon-haupt/
 
 ## 🌐 Socials:
